@@ -99,6 +99,6 @@ To get a local copy up and running follow these simple example steps.
 
 LuizThiago - [@CodeLuiz](https://twitter.com/@CodeLuiz) - hello@luizthiago.com
 
-Project Link: [https://github.com/LuizThiago/GlobalVariables](https://github.com/LuizThiago/GlobalVariables)
+Project Link: [https://github.com/LuizThiago/SimpleScriptableObjectDatabase](https://github.com/LuizThiago/SimpleScriptableObjectDatabase)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
